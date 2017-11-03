@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spellcheck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spellcheck_jar</output-path>
+    <root id="archive" name="Spellcheck.jar">
+      <element id="module-output" name="Spellcheck" />
+    </root>
+  </artifact>
+</component>

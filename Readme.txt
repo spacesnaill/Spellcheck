@@ -1,3 +1,6 @@
+**Description**
+This is a spellchecker using Java. It takes a user provided dictionary and then takes user input and determines of the word is spelled correctly. It can detect the following problems: missing letters, swapped letters, extra letters, wrong letters, and phonetic substitution. It uses a hashmap for efficiency purposes and the chaining method to deal with collisions.  
+
 How to start the program:
 Double click on the Spellcheck.jar file or right click and select open
 
